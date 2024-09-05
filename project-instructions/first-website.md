@@ -232,7 +232,7 @@ We're going to create `<div>` tags to group our content together. What is the di
 
 <br>
 
-- **3a.** **CODE:** Ok, onward with our code! Add a set of div tags within your body element.
+- c your body element.
 
   <details>
     <summary> What does this do? Click to expand</summary>
